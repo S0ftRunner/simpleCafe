@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Cafe</string>
+    <string name="welcome_text">Добро пожаловать!</string>
+    <string name="user_name">Имя пользователя</string>
+    <string name="password_hint">Пароль</string>
+    <string name="EnterButton">Войти</string>
+    <string name="mccafe_blinds">McCafe</string>
+    <string name="greeting">Привет, %s! Что желаете?</string>
+    <string name="tea">Чай</string>
+    <string name="coffee">Кофе</string>
+    <string name="question_about_additives">Что добавить в Ваш %s?</string>
+    <string name="sugar">Сахар</string>
+    <string name="milk">Молоко</string>
+    <string name="lemon">Лимон</string>
+    <string name="type_drink_question">Выберите тип напитка</string>
+    <string name="make_order">Сделать заказ</string>
+    <string name="name_order_detail">Имя:</string>
+    <string name="drink">Напиток:</string>
+    <string name="type_drink">Тип напитка:</string>
+    <string name="additives">Добавки:</string>
+    <string name="alert">Пожалуйста, заполните все поля!</string>
+
+    <array name="types_of_tea">
+        <item>Зеленый</item>
+        <item>Черный</item>
+    </array>
+
+    <array name="type_of_coffe">
+        <item>Американо</item>
+        <item>Эспрессо</item>
+        <item>Латте</item>
+    </array>
+</resources>
